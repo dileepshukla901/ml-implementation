@@ -1,12 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr  7 22:31:25 2020
-
 @author: dileepshukla901
 """
 
 import numpy as np
-import random
 import matplotlib.pyplot as plt
 
 
